@@ -10,6 +10,7 @@
 4. Desbloqueio de Senha: Programa para desbloquear uma senha predefinida (2468).
 5. Sequência de Fibonacci: Imprime os elementos da sequência de Fibonacci.
 6. Menu Interativo: Utiliza lista simplesmente encadeada para gerenciar um estoque de produtos.
+7. Cálculos orbitais: Utiliza doubles para calcular a velocidade e período orbital de acordo com as leis de Kepler.
 
 ## Uso
 
