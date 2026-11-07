@@ -1,3 +1,5 @@
+> 📦 **Archived (November 2026).** A collection of small MIPS assembly programs from my 2024 coursework. Kept as a read-only record of what I was working on at the time; it is no longer maintained.
+
 # MIPS-codigos
 
  **Coleção de programas diversos em MIPS Assembly**
