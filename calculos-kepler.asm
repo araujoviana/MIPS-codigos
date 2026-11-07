@@ -1,5 +1,5 @@
-# Matheus Gabriel Viana Araujo - 10420444
-# Enzo Carvalho Pagliarini - 10425707
+# Matheus Gabriel Viana Araujo
+# Enzo Carvalho Pagliarini
 
 .data
 # Entrada do usuário
